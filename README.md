@@ -18,13 +18,9 @@ AlKareem-Trading</h3>
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
 - [Built Using](#built_using)
-- [User Story](#user_story)
-- [Data Flow](#data_flow)
 - [To Communicate](#To_Communicate)
 - [Guided By](#guided_by)
-
 ## 🧐 About <a name = "about"></a>
 
 -Alkareem Trading is a new established company with headquarters based in Kigali – Rwanda and offices in Amman – Jordan, we are specialized in general trading across the world to distribute the highest quality products from around the world, ensuring that our customers have access to the most diverse and innovative offerings available. We offer a range of specialized services to our customers, including product sourcing, logistics and distribution, and customized product development. Our team even has a deep understanding of the food and beverage industry, and we use this knowledge to provide tailored solutions that meet the specific requirements of our customers. In addition, we are committed to sustainability and ethical business practices, and work with our suppliers to ensure that our products are sourced and distributed in a responsible and environmentally conscious manner. Whether you’re a small local business or a large international corporation, we have the expertise and resources to meet your food and beverage trading needs. We pride ourselves on providing outstanding customer service, and are dedicated to building long-term relationships with our customers based on trust, reliability, and mutual success.
@@ -54,12 +50,6 @@ git clone https://github.com/c6-AsfourMohammad/AlKareem-Trading
 - [MySql](#) - Database
 - [Php](#) - Server Framework
 - [WordPrees](3) - Web Framework
-
-## User Story <a name = "#user_story"></a>
-
-Your trello board link
-<a href='https://trello.com/b/WpdPUAA2/code-masters-c6'>Trello</a>
-
 ## ❤️ To Communicate <a name = "To_Communicate"></a>
 To communicate with team members 
     <br> 
@@ -75,4 +65,4 @@ To communicate with team members
 
 ## ⚠️ Guided By <a name = "guided_by"></a>
 
-This project is guided by ©️ **Mohammad Asfour**
+This project is guided by ©️ **Mohammad Asfour** in the company**Dardos**
