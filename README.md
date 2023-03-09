@@ -65,4 +65,4 @@ To communicate with team members
 
 ## ⚠️ Guided By <a name = "guided_by"></a>
 
-This project is guided by ©️ **Mohammad Asfour** in the company**Dardos**
+This project is guided by ©️ **Mohammad Asfour** in the company **Dardos**
